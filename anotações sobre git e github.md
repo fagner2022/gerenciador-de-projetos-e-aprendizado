@@ -23,7 +23,3 @@
 - #### link para download do git 
 
 - [Git - Downloads (git-scm.com)](https://git-scm.com/downloads)
-
--  
-
-  
